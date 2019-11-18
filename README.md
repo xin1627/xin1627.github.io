@@ -16,5 +16,5 @@ Python
 
 ###### New Knowledge to learn
 > 线性代数  
-> 图像处理算法（OpenCv）
+> 图像处理算法（OpenCv）  
 > 音视频处理（ffmpeg）
